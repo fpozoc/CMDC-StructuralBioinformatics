@@ -1,0 +1,413 @@
+>sp|Q9WUR4.1|RNAS1_MYOGA RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A; Flags: Precursor
+------------------------------------------------------------
+----MGLEKSLILLPLLVLV---FGWVQPS----LG------------------------
+--------------------------------KETSAQKFERQHMDSTGSS--SSPTYCN
+QMMKRRNMTQGYCKPVNTFVHKPLANVQAVCSQKNVTCKNGNSNCYKSHSALPITDCRLK
+GNSKYPNCDYQTNQLQKHIIVACEGSPFVPVHFDASV-----------------------
+----------------------
+>XP_003509260.1 PREDICTED: ribonuclease pancreatic [Cricetulus griseus]
+------------------------------------------------------------
+----MSLQKSLILFPLLALL---LGWVQSS----LG------------------------
+--------------------------------KESAAMKFERQHMDSTVATS-SSPTYCN
+QMMKRRNMTQGSCKPVNTFVHESLADVHAVCSQENVKCKNGKSNCYKSHSALHITDCRLK
+GNAKYPNCDYQTSQHQKHIIVACEGNPFVPVHFDASV-----------------------
+----------------------
+>XP_005087526.1 PREDICTED: ribonuclease pancreatic [Mesocricetus auratus]
+------------------------------------------------------------
+----MSLQKSLILLPLLVLL---LGWLQPS----LG------------------------
+--------------------------------KESAAMKFERQHMDSTVATS-SSPTYCN
+QMMKRRNMTQGYCKPVNTFVHESLADVHAVCSQENVACKNGKSNCYKSHSALHITDCRLK
+GNAKYPNCDYQTSQLQKQIIVACEGNPFVPVHFDASV-----------------------
+----------------------
+>XP_008586714.1 PREDICTED: ribonuclease pancreatic [Galeopterus variegatus]
+------------------------------------------------------------
+----MALKKSLILFPLLVLVLLVLGWVQPS----LG------------------------
+--------------------------------KETSAMKFERQHMDPGNSP--SSSTYCN
+EMMKRRNMTDGWCKQVNTFVHESLVDVQAVCFQENVACKNGQTNCYQSTSSMSITDCRLT
+SSSSYPDCTYKTTSKDSHIVVACEGDPYVPVHYDASVE----------------------
+----------------------
+>XP_012589429.1 PREDICTED: LOW QUALITY PROTEIN: ribonuclease pancreatic [Condylura cristata]
+------------------------------------------------------------
+-----MALKSLVLFSLLVVGLLVLGGVQPS----LG------------------------
+--------------------------------KESRALKFQRQHMDPGNFP--NNPTYCN
+LMMRRRNMTQGRCKPVNTFVHETMVDVQAVCLERNITCKNGQPNCYQSRSSMRITDCRLT
+GGSRYPNCAYRTSQKERHIIVACEGNPYVPVHFDAAVEVSXPEAGAEAPHQHSLEAPTLQ
+GSSL------------------
+>XP_006163151.1 PREDICTED: ribonuclease pancreatic [Tupaia chinensis]
+------------------------------------------------------------
+----MALKKSLMLFPLLVLLLLVLGWVQPS----LG------------------------
+--------------------------------KESPAKKFLRQHMDSEGSSD-NTSTYCN
+QMMTRRNMTKGWCKAVNTFVHESLASVQAVCFQENVTCKNGNTNCYKSTSSMHITDCRLT
+GSSKYPNCAYRTSQKQRHIIVACEGSPYVPVHFDASVESST-------------------
+----------------------
+>ACV70067.1 RNase 1 [Glaucomys volans]
+------------------------------------------------------------
+-----MALKSLVLFPLLFLVLLVLEWVPST----LG------------------------
+--------------------------------KETSAHKFQRQHMDSNGSSR-VSPTYCN
+EMMRRRNMTTRHCKQVNTFVHESLVDVQAVCTQENVMCKNGQTNCYQSTSNLHITECRLT
+RGSKYPNCAYKTTQKERHIIVACEGNPYVPVHFDASVEEST-------------------
+----------------------
+>ACV70066.1 RNase 1 [Sciurus carolinensis]
+------------------------------------------------------------
+----MALEKSLVLFPLLVLVLLVLEWVPPT----LG------------------------
+--------------------------------KESAANKFQRQHMDSSASSG-ISPTYCN
+EMMRRRNMTKGHCKPVNTFVHESLVDVQAVCTQENVTCKNGQTNCYQSRSNMHITDCRLT
+RGSKYPNCAYKTSQKERHIIVACEGNPYVPVHFDASVEEST-------------------
+----------------------
+>XP_005341519.1 PREDICTED: ribonuclease pancreatic [Ictidomys tridecemlineatus]
+------------------------------------------------------------
+----MALVKSLILFPLLVLVLLVLEWIPPT----LG------------------------
+--------------------------------KESAAKKFQRQHMDSTGSFS-PSPTYCN
+EMMRRRNMTKGHCKPVNTFVHESLEDVQAVCTQENVTCKNGQTNCFQSRSNMHITDCRLT
+GGSKYPNCSYKTSQKERRIIVACEGNPSVPVHFDASVEGSA-------------------
+----------------------
+>XP_008507636.1 PREDICTED: ribonuclease pancreatic isoform X5 [Equus przewalskii]
+------------------------------------------------------------
+----MAQEKSLILFPLLVLVLLVLGCVQLS----LG------------------------
+--------------------------------KESPAMKFERQHMDSGSTSS-SNPTYCN
+QMMKRRNMTQGWCKPVNTFVHEPLADVQAICLQKNITCKNGQSNCYQSSSSMHITDCRLT
+SGSKYPNCAYQTSQKERHIIVACEGNPYVPVHFDASVEVST-------------------
+----------------------
+>sp|Q8SQ06.1|RNAS1_ATEGE RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A; Flags: Precursor
+------------------------------------------------------------
+----MALEKSLALLPLLVLVLLVLGWVQPS----LG------------------------
+--------------------------------KESRAKKFQRQHMDSDGSPS-SNPTYCN
+DMMKRRNMTQGRCKPVNTFVHEPLVDVQDVCFQENVTCKNGQANCYKSSSSMHITDCRLT
+NGSRYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEDST-------------------
+----------------------
+>sp|Q8SQ07.1|RNAS1_SAGOE RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A; Flags: Precursor
+------------------------------------------------------------
+----MALEKSLALLPLLVLVLLVLGWVQPS----LG------------------------
+--------------------------------KESRAQKFQRQHMDSDGSPS-SNPTYCN
+NMMRRRNMTQGRCKPVNTFVHEPLVDVQDVCFQEKVTCKNGQPNCYKSSSSMRITDCRLT
+NGSRYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEDST-------------------
+----------------------
+>XP_016055146.1 PREDICTED: ribonuclease pancreatic [Miniopterus natalensis]
+------------------------------------------------------------
+----MAQEKSLILFQMLVLVMLVLGWVQPS----LG------------------------
+--------------------------------KESRAMKFQRQHMDPDNHPS-NNSNYCN
+QMMRRRNMTEGRCKPVNTFVHEPLVDVQAVCFQQNITCKNGQPNCHKSSSSMRITDCRLT
+NGSKYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEAST-------------------
+----------------------
+>XP_008159801.1 PREDICTED: LOW QUALITY PROTEIN: ribonuclease pancreatic-like [Eptesicus fuscus]
+------------------------------------------------------------
+----MAQEKALILFPLLVLMLLVLGWVQPS----LG------------------------
+--------------------------------KESRAMKFQRQHMDPDGYPS-NNSNYCN
+QMMRRRNMTEGRCKPVNTFVHEPLADVQAICLQGNITCKNGKPNCHKSNSSMNITDCHET
+SGSKYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEVSIGDQSSEMPHLTESSVXPSS
+FLALGEMTQGRAPIQHKSVSLA
+>AGF41063.1 RNase1 alpha [Murina leucogaster]
+------------------------------------------------------------
+----MAQEKSLILFPLLVLVLLVLGWVQPS----LG------------------------
+--------------------------------KESRAMKFQRQHMDPDGDSS-NNSNYCN
+QMMRRRNMTEGRCKPVNTFVHEPLVDVQAVCFQENITCKNGQPNCHKSSSSMKITDCRVT
+SGSKYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEAST-------------------
+----------------------
+>AEF13468.1 RNase A family pancreatic ribonuclease 1 [Myotis mystacinus]
+------------------------------------------------------------
+----MAQKKPLILFPLLVLVLLVLGWVQPS----LG------------------------
+--------------------------------KESRAKKFQRQHMDPDGYPS-NNSNYCN
+QMMRRRHMTEGRCKPVNTFIHEPLVDVQAICLQGNIICKNGQPNCHKSSSSMKITDCRVT
+SGSKYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEVST-------------------
+----------------------
+>AEF13446.1 RNase A family pancreatic ribonuclease 1 [Tylonycteris pachypus]
+------------------------------------------------------------
+----MAQEKSLILFPLLVLVLVVLGWIQPS----LG------------------------
+--------------------------------KESRAMKFQRQHMDPDGYPS-NNSNYCN
+QMMRRRNMTEGRCKPVNTFVHEPLVDVQAICLQGNITCKNGKPNCHKSSSSMNITDCRVT
+SGSKYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEVST-------------------
+----------------------
+>AEF13444.1 RNase A family pancreatic ribonuclease 1 [Scotomanes ornatus]
+------------------------------------------------------------
+----MAQEKSLILFPLLVLVLLVLGWVQPS----LG------------------------
+--------------------------------KESRAMKFQRQHMDPDGYPS-NNSNYCN
+QMMRRRNMTEGRCKPVNTFVHEPLVDVQAICLQGNITCKNGQPNCHKSSSSMKITDCRVT
+SGSKYPNCAYRTSQKERHIIVACEGNPYVPVHFDASVEVST-------------------
+----------------------
+>AEF13442.1 RNase A family pancreatic ribonuclease 1 [Plecotus auritus]
+------------------------------------------------------------
+----MAQEKSLILFPLLVLVLLVLGWVQPS----LG------------------------
+--------------------------------KESRAMKFQRQHMDPDGYPS-NNPNYCN
+QMMRRRNMTEGRCKPVNTFVHEPLVDVQAICLQGNITCKNGQPNCHKSSSSMKITDCRVT
+SGSKYPNCVYRTSQKEKHIIVACEGNPYVPVHFDASVEVST-------------------
+----------------------
+>XP_008052701.1 PREDICTED: ribonuclease pancreatic [Carlito syrichta]
+------------------------------------------------------------
+----MFLEKSLVLLPLLVLVLLLLDWIQPS----LG------------------------
+--------------------------------KESRAMKFQRQHMDSGSSPS-SNTTYCN
+EMMRRRNLTQGRCKPVNTFVHEPLEDVQAVCFQGNVNCKNGQTNCYRSSSSMHITDCRLT
+GSSKYPNCAYRTTRKERHIIVACEGNPYVPVHFDASVEDST-------------------
+----------------------
+>XP_003803100.1 PREDICTED: ribonuclease pancreatic [Otolemur garnettii]
+------------------------------------------------------------
+----MALEKSLVLFPLLVVVLLVLGYVQPS----LG------------------------
+--------------------------------KETPAMKFQRQHMDSGGTSSLSNHTYCN
+QMMKRRNMTKGRCKPVNTFVHEPLEDVQAVCFQERVNCKNGQTNCYKSSSSMDITDCRLT
+NGSKYPNCSYRTSQKKRHIIVACEGTPYVPVHFDASVGDSS-------------------
+----------------------
+>XP_012608296.1 ribonuclease pancreatic isoform X1 [Microcebus murinus]
+-------------------------------------------------------MLLQE
+SEAAMALEKSLVLFPLLVLALLVLEWVQPS----LG------------------------
+--------------------------------KESPAMKFQRQHMDSGSSSS-SNSTYCN
+LMMRRRNMTKGRCKPVNTFVHEPLVDVQAVCFQENVTCKNGQTNCYKSNSNMHITDCRLT
+GGSKYPNCAYRASQKERHIIVACEGSPYVPVHFDASVGDST-------------------
+----------------------
+>sp|Q8SQ04.1|RNAS1_LEMCA RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A; Flags: Precursor
+------------------------------------------------------------
+----MALEKSLVLLPLLVLALLVLGWIQPS----LG------------------------
+--------------------------------KESRAMKFQRQHMDPGSSSS-SSSTYCN
+QMMRRRNMTNGWCKPVNTFVHEPLVDVQAICFQENVTCKNGQTNCYKSNSTMHITDCRLT
+GSSKYPNCAYRTSQKERRIIVACEGSPYVPVHFDASVEDST-------------------
+----------------------
+>XP_003474579.1 PREDICTED: ribonuclease pancreatic B [Cavia porcellus]
+------------------------------------------------------------
+------MEKCLVLFPLLVLVLLGLGWVQPS----LG------------------------
+--------------------------------AESSAMKFQRQHMDPEGSPS-NSSNYCN
+VMMIRRNMTQGRCKPVNTFVHESLADVQAVCFQKNVLCKNGQTNCYQSYSRMRITDCRVT
+SSSKFPNCSYRMSQAQKSIIVACEGDPYVPVHFDASVEPST-------------------
+----------------------
+>XP_004644056.2 PREDICTED: LOW QUALITY PROTEIN: ribonuclease pancreatic [Octodon degus]
+MHLEKHVHEGVTTCKTSLEKTCLSGKGDCILRSSRWEPEFSXLQAHSSFLFPFAFRLSQD
+SKVTMTLEKPFVLFPLLVLVLLGLGWVQPS----LG------------------------
+--------------------------------KESSAEKFQRQHMDSSGSPS-TNSNYCN
+EMMKKRSMTQGRCKPVNTFIHEPLAEVQAVCSQKNVPCKNGQTNCYQSISNMHITDCRLT
+SNSKYPDCSYRTRQEEKSIIVACEGNPYVPVHFDASVAA---------------------
+----------------------
+>XP_013363998.1 PREDICTED: ribonuclease pancreatic-like [Chinchilla lanigera]
+---------------------------------------------MLFLLFLFSFTLSQD
+SELTLTLETCLVLIPLLVLVLLGLWWVQPP----QD------------------------
+--------------------------------KESSAMRFQRQHVDSGSSPG-SNPNYCN
+EMMKRRNMTQGRCKPVNTFVHEPLADVQAVCFQKNVPCKNGQTNCYQSSSNMHITDCRLT
+SNSKYPDCSYRTLQENKGIIVACEGNPYVPVHFDASVESSA-------------------
+----------------------
+>CAD59676.1 pancreatic ribonuclease, partial [Atherurus macrourus]
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------KESSAMKFERQHMDSGGSPS-SNPNYCN
+EMMRRRNMTQDRCKPVNTFVHEPLADVQAVCFQKNVACKNGQTNCYQSSSPMHITDCRVT
+GSSQYPDCSYRTSQLERSIIVACEGSPYVPVHYD--------------------------
+----------------------
+>XP_012921122.1 PREDICTED: ribonuclease pancreatic [Heterocephalus glaber]
+------------------------------------------------------------
+----MALEKSLVLFPLLVLVLLGLVCVQPS----LG------------------------
+--------------------------------KESSAMKFRRQHMDSEGSPN-TNANYCN
+EMMRRRNMTEGRCKPVNTFVHEPLADVQAVCFQKNVACKNGQTNCYQSSSSMHITDCRLT
+SNSKYPTCSYRTSQMERSIIVACEGNPYVPVHFDASVESST-------------------
+----------------------
+>XP_010642510.1 PREDICTED: ribonuclease pancreatic [Fukomys damarensis]
+------------------------------------------------------------
+----MALGRSLVLFPMLILVLLGLVWVQPS----LG------------------------
+--------------------------------KESAAMKFQRQHMDSSSNPT-SNANYCN
+EMMKRRNMTQDRCKPVNTFVHEPLADVQAVCFQKNVVCKNGQTNCYQSTSSMHITDCRLT
+SNSKYPNCSYRTSQMERSIVVACEGNPYVPVHFDASVDSST-------------------
+----------------------
+>XP_010947980.1 PREDICTED: ribonuclease pancreatic [Camelus bactrianus]
+------------------------------------------------------------
+----------MVPKFPVLFLLLVLGWVQPS----LG------------------------
+--------------------------------SETAAEKFERQHMDSYSSSS-SNSNYCN
+QMMKRREMTDGWCKPVNTFIHESLEDVQAVCSQKSVTCKNGQTNCHQSTSTMHITDCRET
+GSSKYPNCAYKASNLQKHIIIACEGNPYVPVHFDASV-----------------------
+----------------------
+>XP_006218762.1 PREDICTED: ribonuclease pancreatic [Vicugna pacos]
+------------------------------------------------------------
+----------MVQKFQLLFLLVVLGWVQPS----LG------------------------
+--------------------------------SETAAEKFERQHMDSDGSSS-SNSNYCN
+QMMKRREMTGGYCKPVNTFIHESLEDVQAVCSQESVTCKNGQTNCHQSTSTMHITDCRET
+GSSKYPNCAYKASNLQKHIIIACEGNPYVPVHFDASV-----------------------
+----------------------
+>XP_010837734.1 PREDICTED: brain ribonuclease [Bison bison bison]
+------------------------------------------------------------
+-----MALKSLVLLSLLVLVLL-LVQVQPS----LG------------------------
+--------------------------------KESAAAKFRRQHMDSGSSSS-SNPNYCN
+QMMKRRRMTHGRCKPVNTFVHESLDDVKAVCSQKNITCKNGHPNCYQSKSTMSITDCRET
+GSSKYPNCAYKTSQKQKYITVACEGTPYVPVHFDGAVLLPATPVPSLPPPHRLL------
+----------------------
+>CAC24721.1 pancreatic ribonuclease, partial [Tragulus javanicus]
+------------------------------------------------------------
+-----------VLLPLLVLVLLV--CIQPS----L-------------------------
+--------------------------------EETSAEKFERQHMDADSSPA-SNSNYCN
+KMMKSRSMTTDRCKPVNTFIHEPLADVQAVCSQTNVACKNGQTNCYQSKAAMRITDCRET
+GSSKYPDCAYTTTEEEKHIIVACEGNPYVPVHFDATV-----------------------
+----------------------
+>CAA06576.1 pancreatic ribonuclease, partial [Hippopotamus amphibius]
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------KETAAEKFQRQHMDTSSSLS-NDSNYCN
+QMMVRRNMTKDRCKPVNTFVHESEADVKAVCSQKNVTCKNGQTNCYESNSTMHITDCRET
+GSSKYPNCAYKTSQLQKHIIVACEGDPYV-------------------------------
+----------------------
+>NP_001161127.1 ribonuclease pancreatic precursor [Sus scrofa]
+------------------------------------------------------------
+-----MAQKSLVLFLWLALVLLVLGWVQPS----LG------------------------
+--------------------------------KESPAKKFQRQHMDPDSSSS-NSSNYCN
+LMMSRRNMTQGRCKPVNTFVHESLADVQAVCSQINVNCKNGQTNCYQSNSTMHITDCRQT
+GSSKYPNCAYKASQQEKHIIVACEGNPPVPVHFDASV-----------------------
+----------------------
+>AAP76380.1 pancreatic RNase, partial [Balaena mysticetus]
+------------------------------------------------------------
+---------SLVLLPWLVLVLLVLGWVQPS----LG------------------------
+--------------------------------RESPAMKFQRQHMDSGNSPG-NNRNYCN
+QMMMRRQMTQGRCKPVNTFVHESLEDVKAVCSQKNVLCKNGRPNCYKSNSAMRITDCRQT
+GSSKYPNCAYNTSQVEKHIIVACEGDPYVPVHFDGSV-----------------------
+----------------------
+>XP_007180555.1 PREDICTED: ribonuclease pancreatic [Balaenoptera acutorostrata scammoni]
+------------------------------------------------------------
+-----MAPKSLVLLPWLVLVLLVLGWVQPS----LG------------------------
+--------------------------------RESPAMKFQRQHMDSGNSPG-NNPNYCN
+QMMMRRKMTQGRCKPVNTFVHESLEDVKAVCSQKNVLCKNGRTNCYESNSTMHITDCRQT
+GSSKYPNCAYKTSQKEKHIIVACEGDPYVPVHFDNSV-----------------------
+----------------------
+>XP_004274117.1 PREDICTED: ribonuclease pancreatic [Orcinus orca]
+------------------------------------------------------------
+-----MAWKSLVLLPWLVLVLLVLGWVQPS----LG------------------------
+--------------------------------KESPAMKFQRQHMDSGSSPG-NNSNYCN
+QMMMRRKMTQGRCKPVNTFVHESLEDVKAVCFQKNIHCKNGKTNCYESNSTMYITECRET
+GSSKYPNCAYKTSQKEKHIIVACEGDPYVPVHFDGSV-----------------------
+----------------------
+>XP_004329259.1 PREDICTED: ribonuclease pancreatic [Tursiops truncatus]
+------------------------------------------------------------
+-----MARKSLVLLPWLVLVLLVLGWVQPS----LG------------------------
+--------------------------------KESPAMKFQRQHMDSGSSPG-NNSNYCN
+QMMMRRKMTQGRCKPVNTFVHESLEDVKAVCFQKNIHCKNGKTNCYESNSTMYITECRET
+GSSKYPNCAYKTSQKEKHIIVACEGDPYVPIHFDGSV-----------------------
+----------------------
+>XP_007462617.1 PREDICTED: ribonuclease pancreatic [Lipotes vexillifer]
+------------------------------------------------------------
+-----MARKSLVLLPWLVLALLVLGWVQPS----LG------------------------
+--------------------------------KESPAMKFQRQHMDSGSSPG-NNSNYCN
+QMMMRRKMTQGRCKPVNTFVHESLEDVKAVCSQKNVHCKNGKTNCYESNSTMYITECRET
+GSSKYPNCAYKTSQKEKHIIVACEGDPYVPVHFDGSV-----------------------
+----------------------
+>XP_007127816.1 PREDICTED: ribonuclease pancreatic-like [Physeter catodon]
+----------------MACTIDRNGHTPSFNSPGVLKRPELGEVTPNEAAFYSSVFRLLQ
+GSETTMAPKSLVLLPWLVLVLLALGWVQPS----LG------------------------
+--------------------------------KESPAMKFQRQHMDSGSSPG-NNSNYCN
+QMMMRRKMTQGRCKPVNTFVHESLEDVKAVCFQKNIPCKNGQTNCYESNSTMHITDCRQT
+GGSKYPNCAYKTSQKEKHIIVACEGDPYMPVHFDGSV-----------------------
+----------------------
+>ACV87370.1 ribonuclease, partial [Kogia breviceps]
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------RESPAMKFQRQHMDSGSSPG-NNSNYCN
+QMMMRRNMTQGRCKPVNTFVHESLEDVKAVCFQKNIPCKNGQTNCYQSNSTMHITDCRQT
+GGSKYPNCAYKTSQKEKHIIVACEGNPYV-------------------------------
+----------------------
+>sp|P07849.1|RNAS1_BOSTR RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------KETAAAKFERQHMDSSTSSA-SSSNYCN
+QMMKSRSMTQNRCKPVBTFVHZSLABVQAVCSZKBVACKBGZTBCYZSYSTMSITBCRZT
+GSSKYPBCAYTTTZAKKHIIVACZGBPYVPVHFBASV-----------------------
+----------------------
+>sp|P00659.1|RNAS1_DAMKO RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------KESAAAKFZRZHMBSSTSSA-SSSBYCB
+ZMMKSRNLTQDRCKPVBTFVHZSLABVZAVCSZKBVACKBGZTBCYZSYSTMSITBCRZT
+GSSKYPBCAYKTTQAKKHIIVACZGBPYVPVHFBASV-----------------------
+----------------------
+>pdb|1N1X|A Chain A, Crystal Structure Analysis Of The Monomeric [s- Carboxyamidomethyl-Cys31, S-Carboxyamidomethyl-Cys32] Bovine Seminal Ribonuclease
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------KESAAAKFERQHMDSGNSPS-SSSNYCN
+LMMXXRKMTQGKCKPVNTFVHESLADVKAVCSQKKVTCKNGQTNCYQSKSTMRITDCRET
+GSSKYPNCAYKTTQVEKHIIVACGGKPSVPVHFDASV-----------------------
+----------------------
+>sp|P00664.1|RNAS1_CAPCA RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------KESAAAKFERQHMDPSPSSA-SSSNYCN
+QMMQSRNLTQDRCKPVNTFVHESLADVQAVCFQKNVICKNGQSNCYQSNSAMHITDCRES
+GNSKYPNCVYKTTQAEKHIIVACEGNPYVPVHFDASV-----------------------
+----------------------
+>sp|P87351.1|RNAS1_AXIPR RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------KESAAAKFERQHMDPSTSSA-SSSDYCN
+QMMQSRKMTQDRCKPVNTFVHESLADVQAVCFQKNVACKNGQSNCYQSNSAMHITDCRES
+GNSNYPNCVYKATQAEKHIIVACEGNPYVPVHFDGSV-----------------------
+----------------------
+>CAC24712.1 pancreatic ribonuclease, partial [Antilocapra americana]
+------------------------------------------------------------
+-----------VLLPLLVLVLL-LVRVEPS----LG------------------------
+--------------------------------KETAAAKFERQHIDSNPSSV-SSSNYCN
+QMMKSRNLTQGRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMSITDCRET
+GSSKYPNCAYKTTQAKKHIIVACEGNPYVPVHYDASV-----------------------
+----------------------
+>sp|P00662.2|RNAS1_GIRCA RecName: Full=Ribonuclease pancreatic; AltName: Full=RNase 1; AltName: Full=RNase A
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------KESAAAKFERQHIDSSTSSV-SSSNYCN
+EMMTSRNLTQDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSAMSITDCRET
+GNSKYPNCAYQTTQAEKHIIVACEGNPYVPVHYDASV-----------------------
+----------------------
+>XP_005960934.1 PREDICTED: ribonuclease pancreatic-like isoform X1 [Pantholops hodgsonii]
+------------------------------------------------------------
+----------MALKSMVLLSLLALVGVQPS----LG------------------------
+--------------------------------KESAAAKFERQHMDSSTSSA-SSSNYCN
+QMMKSRSLTQGRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMSITDCRET
+GSSKYPNCAYKTTQAKKHIIVACEGNPYVPVHFDASV-----------------------
+----------------------
+>CAB40706.1 pancreatic ribonuclease, partial [Bubalus bubalis]
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------KETAAAKFQRQHMDSSTSSA-SSSNYCN
+QMMKSRSMTSDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMSITDCRET
+GSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV-----------------------
+----------------------
+>XP_005685450.1 PREDICTED: ribonuclease pancreatic [Capra hircus]
+------------------------------------------------------------
+----------MALKFLVLLSLLVLVEVQPS----LG------------------------
+--------------------------------KESAAAKFERQHMDSSTSSA-SSSNYCN
+QMMKSRNLTQDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMSITDCRET
+GSSKYPNCAYKTTQAEKHIIVACEGNPYVPVHFDASV-----------------------
+----------------------
+>XP_004010433.1 PREDICTED: ribonuclease pancreatic [Ovis aries]
+------------------------------------------------------------
+----------MALKFLVLLSLLVLVGVQPS----LG------------------------
+--------------------------------KESAAAKFERQHMDSSTSSA-SSSNYCN
+QMMKSRNLTQDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMSITDCRET
+GSSKYPNCAYKTTQAEKHIIVACEGNPYVPVHFDASV-----------------------
+----------------------
+>pdb|1A5P|A Chain A, C[40,95]a Variant Of Bovine Pancreatic Ribonuclease A
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------KETAAAKFERQHMDSSTSAA-SSSNYCN
+QMMKSRNLTKDRAKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMSITDCRET
+GSSKYPNAAYKTTQANKHIIVACEGNPYVPVHFDASV-----------------------
+----------------------
+>pdb|2OQF|A Chain A, Structure Of A Synthetic, Non-Natural Analogue Of Rnase A: [n71k(Ade), D83a]rnase A
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------KETAAAKFERQHMDSSTSAA-SSSNYCN
+QMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTXCYQSYSTMSITACRET
+GSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV-----------------------
+----------------------
+>1rbb_blast_query
+----------------------------KETAAAKFERQHMDSSTSAASSSNYCNQMMKS
+RNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMSITDCRETGSSKY
+PNCAYKTTQANKHIIVACEGNPYVPVHFDASVKETAAAKFERQHMDSSTSAA-SSSNYCN
+QMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMSITDCRET
+GSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV-----------------------
+----------------------
+>CDG32088.1 TPA: ribonuclease A C2 [Bos taurus]
+MFVGRVYVSPYLGKLLGTGTSFWLTGRETVSQGGYRWELGFSFEGDAFPLLPLFSFRFLQ
+GSAVIMALKSLVLLSLLVLVLL-LVRVQPS----LG------------------------
+--------------------------------KETAAAKFERQHMDSSTSAA-SSSNYCN
+QMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMSITDCRET
+GSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV-----------------------
+----------------------
+>AAA72757.1 RNase A [synthetic construct]
+------------------------------------------------------------
+----MRGKKVWISLLFALALIFTMAFGSTSSAQAAG------------------------
+--------------------------------KETAAAKFERQHMDSSTSAA-SSSNYCN
+QMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMSITDCRET
+GSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV-----------------------
+----------------------
+>pdb|2NUI|A Chain A, X-Ray Structure Of Synthetic [d83a]rnase A
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------KETAAAKFERQHMDSSTSAA-SSSNYCN
+QMMKSRNLTKDRCKPVNTFVHESLADVQAVCSQKNVACKNGQTNCYQSYSTMSITACRET
+GSSKYPNCAYKTTQANKHIIVACEGNPYVPVHFDASV-----------------------
+----------------------

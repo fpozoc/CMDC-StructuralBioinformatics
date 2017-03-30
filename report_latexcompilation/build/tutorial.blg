@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: build/tutorial.aux
+The style file: nature.bst
+Database file #1: tutorial.bib
+Warning--empty title in Kowarsch2010
+Warning--empty title in Gobel1994
+Warning--empty title in Vicatos2005
+Warning--empty publisher in Wang2016
+Warning--empty title in Hunter2007
+Warning--empty title in Sato2003
+Warning--empty journal in Sato2003
+Warning--empty title in Jeong2012
+Warning--empty title in Lee2009
+Warning--empty title in VanderWalt2011
+Warning--empty title in Cock2009
+You've used 10 entries,
+            1856 wiz_defined-function locations,
+            525 strings with 5579 characters,
+and the built_in function-call counts, 2419 in all, are:
+= -- 203
+> -- 126
+< -- 1
++ -- 46
+- -- 36
+* -- 262
+:= -- 399
+add.period$ -- 21
+call.type$ -- 10
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 21
+duplicate$ -- 89
+empty$ -- 215
+format.name$ -- 36
+if$ -- 496
+int.to.chr$ -- 0
+int.to.str$ -- 10
+missing$ -- 11
+newline$ -- 44
+num.names$ -- 10
+pop$ -- 28
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 32
+stack$ -- 0
+substring$ -- 172
+swap$ -- 10
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 11
+while$ -- 24
+width$ -- 12
+write$ -- 92
+(There were 11 warnings)

@@ -1,0 +1,52 @@
+\begin{thebibliography}{10}
+
+\bibitem{Kowarsch2010}
+Kowarsch, A., Fuchs, A., Frishman, D., and Pagel, P.
+\newblock {\em PLoS Computational Biology}{ \bf 6}(9) (2010).
+
+\bibitem{Gobel1994}
+G??bel, U., Sander, C., Schneider, R., and Valencia, A.
+\newblock {\em Proteins: Structure, Function, and Bioinformatics}{ \bf 18}(4),
+  309--317 (1994).
+
+\bibitem{Vicatos2005}
+Vicatos, S., Reddy, B. V.~B., and Kaznessis, Y.
+\newblock {\em Proteins: Structure, Function and Genetics}{ \bf 58}(4),
+  935--949 (2005).
+
+\bibitem{Wang2016}
+Wang, S., Sun, S., Li, Z., Zhang, R., and Xu, J.
+\newblock {\em {Accurate De Novo Prediction of Protein Contact Map by
+  Ultra-Deep Learning Model}}, volume~9.
+\newblock  (2016).
+
+\bibitem{Hunter2007}
+Hunter, J.~D.
+\newblock {\em Computing in Science and Engineering}{ \bf 9}(3), 99--104
+  (2007).
+
+\bibitem{Sato2003}
+Sato, T.
+\newblock { \bf 497}, 496--497 (2003).
+
+\bibitem{Jeong2012}
+Jeong, C.~S. and Kim, D.
+\newblock {\em Protein Engineering, Design and Selection}{ \bf 25}(11),
+  705--713 (2012).
+
+\bibitem{Lee2009}
+Lee, B.~C. and Kim, D.
+\newblock {\em Bioinformatics}{ \bf 25}(19), 2506--2513 (2009).
+
+\bibitem{VanderWalt2011}
+van~der Walt, S., Colbert, S.~C., and Varoquaux, G.
+\newblock {\em Computing in Science {\{}{\&}{\}} Engineering}{ \bf 13}(2),
+  22--30 mar  (2011).
+
+\bibitem{Cock2009}
+Cock, P. J.~A., Antao, T., Chang, J.~T., Chapman, B.~A., Cox, C.~J., Dalke, A.,
+  Friedberg, I., Hamelryck, T., Kauff, F., Wilczynski, B., and {De Hoon}, M.
+  J.~L.
+\newblock {\em Bioinformatics}{ \bf } (2009).
+
+\end{thebibliography}

@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Correlated mutations and distance correlations. A computational method to predict aminoacid interactions}{3}{subsection.1.1}
+\contentsline {section}{\numberline {2}Methods. \textit {CMDC.py} step by step}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Steps in aminoacids interaction prediction based on correlated mutations and distance correlations.}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Our workflow}{4}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}USAGE: Checking dependencies}{5}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}USAGE: Easy, fast and automatic execution and output}{6}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}USAGE: General usage}{6}{subsubsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.4}USAGE: Examples}{7}{subsubsection.2.2.4}
+\contentsline {section}{\numberline {3}Results and discussion}{8}{section.3}
+\contentsline {subsection}{\numberline {3.1}Defining the contact map and distances heatmap for a protein}{8}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Relating the contact map with the Mutual information for mutations in the sequence}{9}{subsubsection.3.1.1}
+\contentsline {subsection}{\numberline {3.2}Accuracy measurements of the predicted contacts}{10}{subsection.3.2}
+\contentsline {section}{\numberline {4}Conclusion}{12}{section.4}
