@@ -1,7 +1,10 @@
 CMDC.py
 ======
-# "CORRELATED MUTATIONS AND DISTANCE CORRELATIONS TO PREDICT AMINOACID INTERACTIONS"
-* [Structural Bioinformatics and Introduction to Python](https://www.upf.edu/web/bioinformatics/syllabus)
+
+### CORRELATED MUTATIONS AND DISTANCE CORRELATIONS TO PREDICT AMINOACID INTERACTIONS
+
+[Structural Bioinformatics and Introduction to Python](https://www.upf.edu/web/bioinformatics/syllabus)
+
 ======
 *report.pdf* contains all of execution and software details. Check section 2. Methods: CMDC.py Step by Step in order to know more about the usage of CMDC.py.
 ======
@@ -40,4 +43,4 @@ If you want to know more about the optional arguments of the program.
 # Contributors
 Fernando Pozo Ocampo - MSc in Bioinformatics for Health Sciences (University Pompeu Fabra)
 Marcos Camara Donoso - MSc in Bioinformatics for Health Sciences (University Pompeu Fabra)
-March 12, 2017
+*March 12, 2017*
